@@ -16,6 +16,7 @@ h5{
 }
 h4{
     align-self: flex-end;
+    text-align: center;
 }
 a{
     color: black;
