@@ -34,4 +34,5 @@ img{
     justify-content: space-between;
     flex-wrap: wrap;
     background-color: #59b8cc;
+    padding: 15px;
 }
