@@ -91,3 +91,10 @@ span{
 .sport{
     padding-left: 350px;
 }
+.format{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
