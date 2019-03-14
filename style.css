@@ -63,13 +63,14 @@ img{
 .cont3{
     display: flex;
     flex-direction: row;
+    text-align: center;
     justify-content: space-around;
+    align-items: center;
     flex-wrap: wrap;
 }
 .dev{
     display: flex;
     flex-direction: row;
-    text-align: center;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
