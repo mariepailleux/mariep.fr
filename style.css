@@ -84,12 +84,11 @@ img{
     flex-wrap: wrap;
     padding: 5px;
 }
-span{
-    padding-left: 150px;
-    padding-right: 250px;
+ang{
+    text-align: center;
 }
 .sport{
-    padding-left: 350px;
+    text-align: center;
 }
 .d1{
     display: flex;
