@@ -33,4 +33,5 @@ img{
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
+    background-color: #59b8cc;
 }
