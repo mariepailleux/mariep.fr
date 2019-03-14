@@ -2,7 +2,11 @@ body{
     font-family: Arial;
     color: black;
     padding: 15px;
+    backgroung-color: silver;
  }
+.container{
+    background-color: white;
+}
 p{
     margin: 6px;
 }
