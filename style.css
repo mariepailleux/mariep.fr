@@ -77,4 +77,6 @@ img{
     flex-wrap: wrap;
     padding: 5px;
 }
-
+span{
+    padding-left: 50px;
+}
