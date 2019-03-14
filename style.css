@@ -35,7 +35,7 @@ img{
     max-width: 200px;
     height: auto;
     display: block;
-    box-shadow: 6px 6px 6px grey;
+    box-shadow: 6px 6px 6px #3b679b;
 }
 .info{
     display: flex;
