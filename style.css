@@ -13,10 +13,10 @@ h5{
     font-size: 20px;
     background-color: #59b8cc;
     padding: 5px;
+    text-align: center;
 }
 h4{
     align-self: flex-end;
-    text-align: center;
 }
 a{
     color: black;
