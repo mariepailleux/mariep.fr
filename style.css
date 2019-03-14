@@ -6,6 +6,8 @@ body{
  }
 .container{
     background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 p{
     margin: 6px;
